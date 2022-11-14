@@ -1,7 +1,7 @@
 # Highlights of Open Source Contributions made by Siddhesh Bhupendra Kukade
 
 <div >
-<img align="left" src="https://user-images.githubusercontent.com/65951872/201648393-819e096e-46ff-47e9-90dc-840f76afee62.png" alt="logo"/>
+<img height="250px" width="250px" align="left" src="https://user-images.githubusercontent.com/65951872/201648393-819e096e-46ff-47e9-90dc-840f76afee62.png" alt="logo"/>
 <h1 align="left">Google Summer of Code 2022 with Palisadoes Foundation </h1>
 <h4 align="left"> Project Link : https://summerofcode.withgoogle.com/programs/2022/projects/zjlx9dIj </h4>
 <h4 align="left"> Palisadoes Foundation : https://summerofcode.withgoogle.com/programs/2022/organizations/the-palisadoes-foundation </h4>
