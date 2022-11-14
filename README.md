@@ -14,7 +14,8 @@
 
 Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
-| [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa) |  Pull Request (Under Review)| [ [Google Summer of Code] :  Enabling Plugins , Donation as a Plugin, Refractor for TalawaPluginProvider Widget  ](https://github.com/PalisadoesFoundation/talawa/pull/1355) |
+| [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Under Review)| [ [Google Summer of Code] :Plugin Architecture Overview Page ](https://github.com/PalisadoesFoundation/talawa-docs/pull/254) |
+| [PalisadoesFoundation/talawa](https://github.com/PalisadoesFoundation/talawa) |  Pull Request (Merged)| [ [Google Summer of Code] :  Enabling Plugins , Donation as a Plugin, Refractor for TalawaPluginProvider Widget  ](https://github.com/PalisadoesFoundation/talawa/pull/1355) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Under Review )| [ [Google Summer of Code] : Performing Donations ( Ability to store donation transaction in Talwa-api ) ](https://github.com/PalisadoesFoundation/talawa-api/pull/756) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Google Summer of Code] : Plugin Architecture for Server  ](https://github.com/PalisadoesFoundation/talawa-api/pull/730) |
 [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [ [Google Summer of Code] : Plugin Architecture for Admin ](https://github.com/PalisadoesFoundation/talawa-admin/pull/355) |
@@ -35,6 +36,11 @@ Organization / Repository   |      Contributions      |  Links |
 
 Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
+| [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Docs] : Chores : Docusaurus Upgrade to 2.1.0 (latest) for #243 ](https://github.com/PalisadoesFoundation/talawa-docs/pull/245) |
+| [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Chores : Docusaurus Upgrade to 2.1.0 (latest) for #243 ](https://github.com/PalisadoesFoundation/talawa-docs/pull/245) |
+| [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Creating Overview page for talawa application in docs](https://github.com/PalisadoesFoundation/talawa-docs/pull/249) |
+| [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Adding Overview page for talawa-admin in docs](https://github.com/PalisadoesFoundation/talawa-docs/pull/250) |
+| [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Added Templates for Issues and PRs](https://github.com/PalisadoesFoundation/talawa-docs/pull/238) |
 [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : Prettier fix ](https://github.com/PalisadoesFoundation/talawa-admin/pull/346) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged) | [🐛FIX: [Bug Fix] : npm run setup bug ](https://github.com/PalisadoesFoundation/talawa-api/pull/714) |
 [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Bug Report | [🐛Bug Report : npm run setup compiles with error ](https://github.com/PalisadoesFoundation/talawa-api/issues/712) |
