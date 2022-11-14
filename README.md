@@ -1,4 +1,4 @@
-# Open Source Contributions by Siddhesh Bhupendra Kukade
+# Highlights of Open Source Contributions made by Siddhesh Bhupendra Kukade
 
 <div >
 <img align="left" src="https://user-images.githubusercontent.com/65951872/201648393-819e096e-46ff-47e9-90dc-840f76afee62.png" alt="logo"/>
@@ -36,7 +36,8 @@ Organization / Repository   |      Contributions      |  Links |
 
 Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
-| [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Docs] : Chores : Docusaurus Upgrade to 2.1.0 (latest) for #243 ](https://github.com/PalisadoesFoundation/talawa-docs/pull/245) |
+| [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Test] : Cancel_membership_request #574 ](https://github.com/PalisadoesFoundation/talawa-api/pull/743) |
+| [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api) |  Pull Request (Merged)| [ [Test] : Code Coverage : Tests for groups.js Fix #585 ](https://github.com/PalisadoesFoundation/talawa-api/pull/769) |
 | [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Chores : Docusaurus Upgrade to 2.1.0 (latest) for #243 ](https://github.com/PalisadoesFoundation/talawa-docs/pull/245) |
 | [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Creating Overview page for talawa application in docs](https://github.com/PalisadoesFoundation/talawa-docs/pull/249) |
 | [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs) |  Pull Request (Merged)| [ [Docs] : Adding Overview page for talawa-admin in docs](https://github.com/PalisadoesFoundation/talawa-docs/pull/250) |
@@ -75,6 +76,42 @@ Organization / Repository   |      Contributions      |  Links |
 |----------|:-------------:|------:|
 | [reduxjs/react-redux](https://github.com/reduxjs/react-redux/) |  Bug Report  | [🔍 Problem with docs in /getting-started section](https://github.com/reduxjs/react-redux/issues/1727) |
 
+<br/>
+
+<div >
+<img  align="left" src="https://user-images.githubusercontent.com/65951872/201653448-3d8a131a-68a0-40d2-9b8d-c1422c43c719.png" alt="logo"/>
+<h1 align="left">Github Readme Templates   </h1>
+<h4 align="left"> Repository : https://github.com/github/gitignore  </h4>
+</div>
+
+---
+<br/>
+<br/>
+
+Organization / Repository   |      Contributions      |  Links |
+|----------|:-------------:|------:|
+| [github/gitignore](https://github.com/reduxjs/react-redux/) |  Pull Request (Under Review)  | [ Add/gitignore for solidity ](https://github.com/github/gitignore/pull/4126) |
 
 
 
+<br/>
+
+<div >
+<img height="200px" width="200px" align="left" src="https://user-images.githubusercontent.com/65951872/201654653-e1b2a3a9-b043-4a05-8a99-19c85c5f6f6d.png" alt="logo"/>
+<h1 align="left">Rocket.Chat   </h1>
+<h4 align="left"> Repository : https://github.com/Rocket.chat  </h4>
+ <br/>
+ <br/>
+</div>
+
+---
+<br/>
+<br/>
+
+Organization / Repository   |      Contributions      |  Links |
+|----------|:-------------:|------:|
+| [Rocket.Chat/docs](https://github.com/reduxjs/react-redux/) |   Bug Report  | [ Link Broken at Developing page of Rocket.chat Docs](https://github.com/RocketChat/docs/issues/2081) |
+
+---
+
+Thank you for checking out ! ❤️ 
