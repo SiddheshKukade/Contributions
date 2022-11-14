@@ -113,5 +113,7 @@ Organization / Repository   |      Contributions      |  Links |
 | [Rocket.Chat/docs](https://github.com/reduxjs/react-redux/) |   Bug Report  | [ Link Broken at Developing page of Rocket.chat Docs](https://github.com/RocketChat/docs/issues/2081) |
 
 ---
+#### Contact : contact@siddheshkukade.com
 
 Thank you for checking out ! ❤️ 
+
